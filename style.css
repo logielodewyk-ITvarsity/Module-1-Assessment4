@@ -1,0 +1,30 @@
+th{
+ font-weight:800;
+ background-color: #4487dd;
+ color           : #ffffff;
+}
+td{
+    color:#ffffff
+}
+li{
+    font-weight:800;
+ background-color: #4487dd;
+ color           : #ffffff;
+}
+
+
+table{
+    border-collapse:collapse;
+    border-width   : 1px;
+    border-style   : solid;
+    border-color   : #4487dd;
+}
+
+.gallery{
+    margin:5px;
+    border:1px solid;
+    float:left;
+    width:390px;
+
+}
+
